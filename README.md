@@ -33,12 +33,12 @@ Glucose, BloodPressure and BMI followed roughly normal distribution. Pregnancies
 
 ### Feature Distribution by Outcome
 
-![Feature Distribution with Outcome](Images\EDA\Feature_Distribution_with_outcome.png)
+![Feature Distribution with Outcome](Images/EDA/Feature_Distribution_with_outcome.png)
 
 
 ### Key Correlation Findings
 
-![Correlation Matrix](Images\EDA\Correlation_Matrix.png)
+![Correlation Matrix](Images/EDA/Correlation_Matrix.png)
 
 
 #### Preprocessing
@@ -49,7 +49,7 @@ PCA was implemented from scratch using eigen-decomposition of the scatter matrix
 
 ## Kmeans Clustering
 
-![KMeans Results](Images\Analysis\KMeans_Results.png)
+![KMeans Results](Images/Analysis/KMeans_Results.png)
 
 The elbow plot showed no sharp bend, indicating that patient risk exists on a continuum rather than having hard boundaries - a clinically realisti finding. The silhouette score peaked at k=3, confirming three distinct risk groups:
 
