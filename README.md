@@ -27,7 +27,7 @@ Insulin | 374 zeros | 48.7%
 
 ### Feature Distributions
 
-![Univariate Feature Distributions](Images\EDA\Feature_Distributions_with_KDE.png)
+![Univariate Feature Distributions](Images/EDA/Feature_Distributions_with_KDE.png)
 
 Glucose, BloodPressure and BMI followed roughly normal distribution. Pregnancies, DiabetesPredictionFunction, Age and Insulin are right skewed.
 
